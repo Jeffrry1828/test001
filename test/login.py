@@ -3,3 +3,5 @@ num2=20
 num3=30
 def show():
 	print('abc')
+def test():
+	print('123')
